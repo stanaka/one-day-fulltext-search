@@ -1,0 +1,18 @@
+- 
+  url: http://example.com/1
+  content: これはFull Text Searchです。
+  bcount: 10
+  scount: 2
+  date: 2006-01-01 00:00:00 +09:00
+- 
+  url: http://example.com/2
+  content: これはFull Text Searchかもしれません。
+  bcount: 0
+  scount: 0
+  date: 2007-01-01 00:00:00 +09:00
+- 
+  url: http://example.com/3
+  content: Full Versionになるのは、いつのことでしょう
+  bcount: 2
+  scount: 5
+  date: 2008-01-01 00:00:00 +09:00
